@@ -1,0 +1,37 @@
+\chapter{Beispiele}
+\section{End Entity Zertifikat}
+
+    \lstinputlisting[firstline=0, lastline=10, breaklines=true]{includes/end-entity.pem}
+
+    
+
+    \lstinputlisting[firstline=11, lastline=20, breaklines=true]{includes/end-entity.pem}
+
+    
+
+    \lstinputlisting[firstline=21, lastline=30, breaklines=true]{includes/end-entity.pem}
+
+
+\section{Intermediate Zertifikat}
+
+    \begin{itemize}
+        \item Subject = Issuer vom End Entity Zertifikat
+    \end{itemize}
+    \lstinputlisting[firstline=10, lastline=12, breaklines=true]{includes/intermediate.pem}
+
+    
+
+    \begin{itemize}
+        \item Issuer = Subject vom Root Zertifikat
+    \end{itemize}
+    \lstinputlisting[firstline=6, lastline=8, breaklines=true]{includes/intermediate.pem}
+
+
+\section{Root Zertifikat}
+
+    \begin{itemize}
+        \item Subject = Issuer vom End Entity Zertifikat
+        \item Subject = Issuer
+    \end{itemize}
+    \lstinputlisting[firstline=6, lastline=12, breaklines=true]{includes/root.pem}
+

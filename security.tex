@@ -1,0 +1,73 @@
+\chapter{Sicherheit}
+\section{Architektonische Schwächen}
+
+  \begin{itemize}
+    \item Die meisten Clients ignorieren CRL's wenn sie kein Internet haben
+    \item Root Zertifikate können nicht widerrufen werden
+  \end{itemize}
+
+    
+
+  \begin{itemize}
+    \item Delegation Problem
+        \begin{itemize}
+            \item untergeordnete CA's können nicht vom Ausstellen von Zertifkaten außerhalb eines Namespaces abgehalten werden
+            \item dadurch existieren sehr viele CA's
+            \item Klassifizierung dieser nicht möglich
+        \end{itemize}
+  \end{itemize}
+
+    
+
+  \begin{itemize}
+    \item Federation Problem
+        \begin{itemize}
+            \item untergeordnete CA's und cross signing machen Validierung komplex
+            \item braucht sehr viel CPU Zeit
+        \end{itemize}
+  \end{itemize}
+
+    
+\section{Probleme mit CA's}
+
+  \begin{itemize}
+    \item CA's bieten so gut wie keine Gewährleistungen
+    \item Expiration Date wird benutzt um den User für eine Erneuerung zur Kasse zu bitten, anstatt zur Regulierung der Stärke des Schlüssels
+    \item CA's missbrauchen Sicherheitsmerkmale der Zertifikate aus ökonomischen Gründen
+  \end{itemize}
+
+
+
+  \begin{itemize}
+    \item Details von CSR's sind von CA zu CA unterschiedlich, meist keine einfache Erklärung
+    \item CA's sind Regierungen untergeordnet, dies widerspricht den Interessen der User
+  \end{itemize}
+
+
+\section{Implementations Schwächen}
+
+  \begin{itemize}
+    \item Widerrufsprüfung oft ignoriert
+        \begin{itemize}
+            \item werden als Hürde gesehen
+            \item Infrastruktur nicht solide genug
+        \end{itemize}
+  \end{itemize}
+
+
+
+  \begin{itemize}
+    \item Key usage Erweiterung oft ignoriert
+    \item Bestimmte Erweiterungen als kritisch zu markieren crasht clients
+    \item Code Injection Attacks
+  \end{itemize}
+
+
+\section{Kryptographische Schwächen}
+
+  \begin{itemize}
+      \item Sicherheit von Zertifkaten baut auf Sicherheit der Hash Funktion auf
+      \item Kollisionen führen zu Angriffsvektoren
+      \item Angreifer können beliebige Zertifikate im Namen einer CA austellen
+  \end{itemize}
+

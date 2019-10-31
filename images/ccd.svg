@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:cc="http://creativecommons.org/ns#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:svg="http://www.w3.org/2000/svg"
+xmlns="http://www.w3.org/2000/svg"
+version="1.1"
+width="800"
+height="560"
+id="svg2">
+<title
+id="title6142">Cross-Certification Diagram</title>
+<defs
+id="defs4">
+<marker
+refX="0"
+refY="0"
+orient="auto"
+id="Arrow1Mend"
+style="overflow:visible">
+<path
+d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+transform="matrix(-0.4,0,0,-0.4,-4,0)"
+id="path4512"
+style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+</marker>
+<marker
+refX="0"
+refY="0"
+orient="auto"
+id="Arrow1Lend"
+style="overflow:visible">
+<path
+d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+transform="matrix(-0.8,0,0,-0.8,-10,0)"
+id="path4506"
+style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+</marker>
+</defs>
+<metadata
+id="metadata7">
+<rdf:RDF>
+<cc:Work
+rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type
+rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title>Cross-Certification Diagram</dc:title>
+<dc:creator>
+<cc:Agent>
+<dc:title>Hydrargyrum</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:publisher>
+<cc:Agent>
+<dc:title>Wikimedia Foundation</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:date>2016-02-05</dc:date>
+<cc:license
+rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+</cc:Work>
+<cc:License
+rdf:about="http://creativecommons.org/licenses/publicdomain/">
+<cc:permits
+rdf:resource="http://creativecommons.org/ns#Reproduction" />
+<cc:permits
+rdf:resource="http://creativecommons.org/ns#Distribution" />
+<cc:permits
+rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+</cc:License>
+</rdf:RDF>
+</metadata>
+<g
+transform="translate(1.7224827,-263.0147)"
+id="layer1"
+style="display:inline">
+<g
+transform="matrix(2.3099951,0,0,2.3099951,-498.65027,-737.73321)"
+id="g6060">
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5890">
+<path
+d="m 399.58232,442.26099 151.0101,0 0,231.81817 -151.0101,0 z"
+id="path3246"
+style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.70700002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<text
+x="414.05405"
+y="460.47012"
+id="text3248"
+xml:space="preserve"
+style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="414.05405"
+y="460.47012"
+id="tspan3250"
+style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">PKI 2</tspan></text>
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5885">
+<path
+d="m 213.63637,442.26099 151.0101,0 0,231.81817 -151.0101,0 z"
+id="rect3069"
+style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.70700002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<text
+x="228.10811"
+y="460.47012"
+id="text3087"
+xml:space="preserve"
+style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="228.10811"
+y="460.47012"
+id="tspan3089"
+style="font-size:14px;font-weight:bold;-inkscape-font-specification:Liberation Sans Bold">PKI 1</tspan></text>
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5841">
+<path
+d="M 330.39219,576.48049 436.32283,510.55838"
+id="path3550"
+style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<path
+d="m 464.45488,368.91891 -13.4763,7.78055 -13.4763,7.78054 0,-15.56109 0,-15.56109 13.4763,7.78055 z"
+transform="matrix(0.37114702,-0.2315165,0.10478347,0.16797969,227.19764,554.98257)"
+id="path3552"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.44999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5354">
+<path
+d="m 247.07643,643.95407 -15.39443,0 c -4.01282,0 -7.24335,-3.23054 -7.24335,-7.24336 l 0,-119.18501 c 0,-4.01282 3.23053,-7.24336 7.58586,-7.25502 l 3.84013,-0.0116"
+id="path5339"
+style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<path
+d="m 247.67184,510.28234 -5.89502,1.54041 -5.89501,1.5404 0,-3.08081 0,-3.08081 5.89501,1.5404 z"
+id="path5333"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.13242871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5851">
+<rect
+width="82.350136"
+height="38.37838"
+ry="8.1081085"
+x="438.77716"
+y="556.68634"
+id="rect3220"
+style="fill:#c4d6a0;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<g
+id="g5428">
+<text
+x="480.21347"
+y="573.05048"
+id="text3224"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="480.21347"
+y="573.05048"
+id="tspan3226"
+style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Italic">cert. 2.1</tspan></text>
+<text
+x="479.88876"
+y="585.48285"
+id="text3228"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="479.88876"
+y="585.48285"
+id="tspan3230"
+style="font-size:10px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Bold">CA 2</tspan></text>
+</g>
+</g>
+<rect
+width="82.350136"
+height="38.37838"
+ry="8.1081085"
+x="444.94403"
+y="618.35913"
+id="rect3234"
+style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5422">
+<text
+x="479.86435"
+y="638.50714"
+id="text3238"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="479.86435"
+y="638.50714"
+id="tspan3240"
+style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Italic">cert. 2.2</tspan></text>
+<text
+x="479.79355"
+y="650.93951"
+id="text3242"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="479.79355"
+y="650.93951"
+id="tspan3244"
+style="font-size:10px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Bold">User 2</tspan></text>
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5859">
+<g
+id="g5487"
+style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+<rect
+width="82.350136"
+height="38.37838"
+ry="8.1081085"
+x="438.77716"
+y="491.28088"
+id="rect3206"
+style="fill:#c4d6a0;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+</g>
+<g
+id="g5515">
+<text
+x="480.21347"
+y="507.64499"
+id="text3210"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="480.21347"
+y="507.64499"
+id="tspan3212"
+style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Italic">cert. 2</tspan></text>
+<text
+x="479.88876"
+y="520.07739"
+id="text3214"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="479.88876"
+y="520.07739"
+id="tspan3216"
+style="font-size:10px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Bold">CA 2</tspan></text>
+</g>
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5511">
+<path
+d="m 522.01722,643.95407 15.39443,0 c 4.01282,0 7.24335,-3.23054 7.24335,-7.24336 l 0,-119.18501 c 0,-4.01282 -3.23053,-7.24336 -7.58586,-7.25502 l -3.84013,-0.0116"
+id="path5360"
+style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<path
+d="m 521.42181,510.28234 5.89502,1.54041 5.89501,1.5404 0,-3.08081 0,-3.08081 -5.89501,1.5404 z"
+id="path5362"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.13242871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5877">
+<rect
+width="82.350136"
+height="38.37838"
+ry="8.1081085"
+x="247.96635"
+y="491.28088"
+id="rect3073"
+style="fill:#d5dfeb;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<g
+id="g5823">
+<text
+x="289.40265"
+y="507.64499"
+id="text3091"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="289.40265"
+y="507.64499"
+id="tspan3093"
+style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Liberation Sans Italic">cert. 1</tspan></text>
+<text
+x="289.07794"
+y="520.07739"
+id="text3095"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="289.07794"
+y="520.07739"
+id="tspan3097"
+style="font-size:10px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Liberation Sans Bold">CA 1</tspan></text>
+</g>
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5868">
+<rect
+width="82.350136"
+height="38.37838"
+ry="8.1081085"
+x="247.96635"
+y="556.68634"
+id="rect3075"
+style="fill:#d5dfeb;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<g
+id="g5816">
+<g
+id="g5370">
+<text
+x="289.40265"
+y="573.05048"
+id="text3117"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="289.40265"
+y="573.05048"
+id="tspan3119"
+style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Liberation Sans Italic">cert. 1.1</tspan></text>
+<text
+x="289.07794"
+y="585.48285"
+id="text3121"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="289.07794"
+y="585.48285"
+id="tspan3123"
+style="font-size:10px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;-inkscape-font-specification:Liberation Sans Bold">CA 1</tspan></text>
+</g>
+</g>
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5829">
+<rect
+width="82.350136"
+height="38.37838"
+ry="8.1081085"
+x="247.96635"
+y="622.09174"
+id="rect3077"
+style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+<g
+id="g5808">
+<g
+id="g5454">
+<g
+id="g5364">
+<text
+x="289.05353"
+y="638.50714"
+id="text3127"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="289.05353"
+y="638.50714"
+id="tspan3129"
+style="font-size:10px;font-style:italic;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Italic">cert. 1.2</tspan></text>
+<text
+x="288.98273"
+y="650.93951"
+id="text3131"
+xml:space="preserve"
+style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"><tspan
+x="288.98273"
+y="650.93951"
+id="tspan3133"
+style="font-size:10px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;-inkscape-font-specification:Liberation Sans Bold">User 1</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g
+transform="translate(4.8433406,-3.732575)"
+id="g5602">
+<path
+d="m 464.92718,490.55258 0,-11.20981 c 0,-4.4919 3.61621,-8.10811 8.10811,-8.10811 l 13.83388,0 c 4.49189,0 8.10811,3.61621 8.10811,8.10811"
+id="path5600"
+style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+<path
+d="m 464.45488,368.91891 -13.4763,7.78055 -13.4763,7.78054 0,-15.56109 0,-15.56109 13.4763,7.78055 z"
+transform="matrix(0,0.4374357,-0.19798169,0,568.01647,287.81722)"
+id="path5594"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.44999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+<path
+d="m 494.97728,479.34277 0,3.23398"
+id="rect5579"
+style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+</g>
+<g
+transform="translate(-185.96746,-3.732575)"
+id="g5670">
+<path
+d="m 464.92718,490.55258 0,-11.20981 c 0,-4.4919 3.61621,-8.10811 8.10811,-8.10811 l 13.83388,0 c 4.49189,0 8.10811,3.61621 8.10811,8.10811"
+id="path5672"
+style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+<path
+d="m 464.45488,368.91891 -13.4763,7.78055 -13.4763,7.78054 0,-15.56109 0,-15.56109 13.4763,7.78055 z"
+transform="matrix(0,0.4374357,-0.19798169,0,568.01647,287.81722)"
+id="path5674"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.44999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+<path
+d="m 494.97728,479.34277 0,3.23398"
+id="path5676"
+style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+</g>
+<g
+transform="translate(6.166855,-3.732575)"
+id="g5718">
+<path
+d="m 289.14142,622.06631 0,-15.7904"
+id="path5689"
+style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<path
+d="m 289.14142,595.28208 1.54041,5.89502 1.5404,5.89501 -3.08081,0 -3.08081,0 1.5404,-5.89501 z"
+id="path5691"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.13242871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+</g>
+<g
+transform="translate(196.97766,-3.732575)"
+id="g5722">
+<path
+d="m 289.14142,622.06631 0,-15.7904"
+id="path5724"
+style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<path
+d="m 289.14142,595.28208 1.54041,5.89502 1.5404,5.89501 -3.08081,0 -3.08081,0 1.5404,-5.89501 z"
+id="path5726"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.13242871;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+</g>
+<g
+transform="matrix(-1,0,0,1,774.36054,-3.732575)"
+id="g5845">
+<path
+d="m 330.39219,576.48049 51.07544,-31.78496"
+id="path5978"
+style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<path
+d="m 386.6357,541.47937 49.68713,-30.92099"
+id="path5847"
+style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<path
+d="m 464.45488,368.91891 -13.4763,7.78055 -13.4763,7.78054 0,-15.56109 0,-15.56109 13.4763,7.78055 z"
+transform="matrix(0.37114702,-0.2315165,0.10478347,0.16797969,227.19764,554.98257)"
+id="path5849"
+style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.44999999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+</g>
+</g>
+</g>
+</svg>

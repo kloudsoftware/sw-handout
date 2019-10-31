@@ -1,0 +1,11 @@
+Extensions: 
+Identifier: Basic Constraints - 2.5.29.19
+  Critical: yes 
+  Is CA: yes 
+  Path Length Constraint: UNLIMITED
+Identifier: Subject Key Identifier - 2.5.29.14
+  Critical: no 
+  Key Identifier: 
+    3B:46:83:85:27:BC:F5:9D:
+    8E:63:E3:BE:79:EF:AF:79:
+    9C:37:85:84

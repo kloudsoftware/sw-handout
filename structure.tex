@@ -1,0 +1,77 @@
+\chapter{Struktur und Erweiterungen}
+\section{Struktur}
+
+  \begin{itemize}
+      \item Version Number
+      \item Serial Number
+      \item Signature Algorithm ID
+      \item Issuer Name
+      \item Validity period
+      \begin{itemize}
+          \item not before
+          \item not after
+      \end{itemize}
+      \item Subject Public Key Info
+      \begin{itemize}
+          \item Public Key Algorithm
+          \item Subject Public Key
+      \end{itemize}
+      \item Public Key Algorithm
+      \item Subject Public Key
+      \item Issuer Unique Identifier (optional)
+      \item Subject Unique Identifier (optional)
+      \item Extensions (optional)
+      \item Certificate Signature Algorithm
+      \item Certificate Signature
+  \end{itemize}
+
+
+\section{Erweiterungen}
+
+  \begin{itemize}
+      \item Struktur
+            \begin{itemize}
+                \item OID identifiziert die Art der Erweiterung
+                    \begin{itemize}
+                        \item Basic Constraints: 2.5.29.19
+                    \end{itemize}
+                \item Critical indication
+                    \begin{itemize}
+                        \item Kritisch: Zertifikat muss abgelehnt werden, wenn Erweiterung nicht verarbeitbar
+                        \item Nicht kritisch: Muss verarbeitet werden, wenn möglich
+                    \end{itemize}
+            \end{itemize}
+  \end{itemize}
+
+
+
+    \lstinputlisting[basicstyle=\small]{includes/extension}
+
+
+
+    \begin{itemize}
+        \item Basic Constraints: Gehört das Zertifikat zu einer CA?
+        \item Key Usage: Operationen mit dem öffentlichen Schlüssel
+        \item Extended Key Usage: Zweck des öffentlichen Schlüssels
+            \begin{itemize}
+                \item TLS \& SSL
+                \item eMail Absichern
+            \end{itemize}
+    \end{itemize}
+
+
+\section{Dateiendungen}
+
+X.509 Zertifikate können viele verschiedene Dateiendungen haben, wobei
+\begin{itemize}
+\item .der
+\item .crt
+\item .cer
+\item .pem
+\end{itemize}
+
+am häufigsten verwendet werden, aber auch 
+\\\\
+.p7b, .p7c, .p12, .pfx
+\\\\
+als verschlüsselte Daten Zertifikate enthalten sein können
